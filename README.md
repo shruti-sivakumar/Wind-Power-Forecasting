@@ -86,9 +86,9 @@ Accurate wind power forecasting is critical for integrating renewable energy int
 
 ## Contributors
 
-- Shruti Sivakumar
-- Vida Nadheera S
-- Shreya Sriram
+- [Shruti Sivakumar](https://github.com/shruti-sivakumar)
+- [Shreya Sriram](https://github.com/Shreya12125)
+- [Vida Nadheera](https://github.com/Vida181105)
 
 Supervised by: Dr. Rahul Satheesh, Dept. of AI, Amrita Vishwa Vidyapeetham
 
