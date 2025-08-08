@@ -1,4 +1,4 @@
-# Wind Power Forecasting: Comparative Study of ML Models
+# Comparative Study of Statistical, Ensemble, and Deep Learning Models for Wind Power Forecasting Using Multivariate Time Series Data
 
 This project presents a comparative analysis of five machine learning models for wind power prediction using multivariate time series data. It evaluates LSTM, Random Forest, SVR, SARIMA, and XGBoost on real-world turbine data using comprehensive preprocessing, feature engineering, and model tuning.
 
